@@ -1,0 +1,12 @@
+# Arquivos de compilacao
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+
+# Arquivos temporarios da IDE
+.metadata/
